@@ -13,11 +13,11 @@
 <p align="left">
     <a href="https://codeforces.com/profile/shxun" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shxun" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> Specialist on Codeforces (handle: <a href="https://codeforces.com/profile/shxun" target="_blank">shxun</a>, max_rating: 1547)</strong>
+    </a><strong style="padding-left: 15px"> --> Expert on Codeforces (handle: <a href="https://codeforces.com/profile/shxun" target="_blank">shxun</a>, max_rating: 1748)</strong>
     <br><br>
     <a href="https://codechef.com/users/shxun" target="_blank">
         <img align="center" src="https://avatars.githubusercontent.com/u/11960354" alt="shxun" height="60" width="60"/>
-    </a><strong style="padding-left: 15px"> --> 2 Star on CodeChef (handle: <a href="https://www.codechef.com/users/shxun" target="_blank">shxun</a>, max_rating: 1579)</strong>
+    </a><strong style="padding-left: 15px"> --> 4 Star on CodeChef (handle: <a href="https://www.codechef.com/users/shxun" target="_blank">shxun</a>, max_rating: 1842)</strong>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
